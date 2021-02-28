@@ -3,7 +3,7 @@ Quick Machine Learning Model for Home Valuations
 “Every company has big data in its future, and every company will eventually be in the data business.” - Thomas H. Davenport
 
 It is no secret that Machine Learning is being applied everywhere. In today’s data-rich environment every industry can benefit from data analysis, data insights, forecasting, and automation of processes.
-From the actuary models of insurance companies to the next show/movie recommendation from your favorite streaming platform, machine learning has become essential to provide a better customer experience as well as maximize profits for businesses.
+From actuarial models of insurance companies to the next show/movie recommendation from your favorite streaming platform, machine learning has become essential to provide a better customer experience as well as maximize profits for businesses.
 
 Of course, the Real Estate Valuation industry is not an exception to this reality. It seems like every other day there is a new Real Estate tech company promising the best, fastest, and most accurate home valuations. These companies rely heavily (if not, entirely) on machine learning to create their valuation models. The most common of the products offered by these companies is the AVM (Automated Valuation Model). 
 Real Estate appraisers are very familiar with AVMs and the impact they have on the public’s perception of home values. 
