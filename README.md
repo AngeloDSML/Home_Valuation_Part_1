@@ -2,7 +2,6 @@ Quick Machine Learning Model for Home Valuations
 
 “Every company has big data in its future, and every company will eventually be in the data business.” - Thomas H. Davenport
 
-
 It is no secret that Machine Learning is being applied everywhere. In today’s data-rich environment every industry can benefit from data analysis, data insights, forecasting, and automation of processes.
 From the actuary models of insurance companies to the next show/movie recommendation from your favorite streaming platform, machine learning has become essential to provide a better customer experience as well as maximize profits for businesses.
 
@@ -14,14 +13,11 @@ But that doesn’t stop the public from treating them as such.
 
 Is that a problem? Maybe. If the AVM produces grossly inaccurate results, then of course, it is a problem. This may result in over/under priced listings and angry real estate transaction participants. But the truth is that for the most part these AVMs are actually pretty good at providing a “ball park” value. We are very far from the clunky unreliable machine learning models from a decade ago. Advances in Artificial Neural Networks and the availability of Big Data has completely changed the performance of AVMs. There are some obvious exceptions like custom properties, unique locations, and some rural areas. But this is not necessarily a problem with the machine learning model, this is a problem with the availability and/or quality of the data.
 
-
 Why is any of this relevant to appraisers? Simple, because everything is moving towards artificial intelligence and machine learning, and whether we like it or not, the appraisal industry is no exception. It's just a matter of time. And if you are not convinced ask taxi drivers about Uber or ask cable companies about Netflix.
 
 But this is all a good thing. Appraisers are uniquely positioned to level up the valuation industry. Machine learning performance can be improved with the domain expertise of appraisers. And appraisers can take advantage of the computational power and automation of machine learning. It is a perfect match. We can have the best of both worlds.
 
-
 The future of the appraisal/valuation industry lies in the intersection of advanced computational power (big data and machine learning) and domain expertise (appraiser).
-
 
 Tutorial – Machine Learning for Residential Appraisers
 
@@ -31,12 +27,10 @@ The purpose of this tutorial is for appraisers interested in machine learning to
 
 In this tutorial we will cover data collection, data wrangling/cleaning, visualizations, data modelling, and predictions. Since real estate prices are continuous numerical variables we will be using regression techniques, Linear Regression and Decision Tree Regression.
 
-
 Prerequisites:
 •	Some understanding of Python programming.
 •	Access and familiarity with Google Colabs or Jupyter notebook.
 •	If you want to use your own data you will need access to home sales data and custom exports from your local MLS.
-
 
 Obtain the data:
 We will be using a dataset of home sales that includes sales prices and several predicting features, in csv format.
