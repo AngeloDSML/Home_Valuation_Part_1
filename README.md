@@ -1,4 +1,4 @@
-### **Quick Machine Learning Models for Home Valuations**
+### **Quick Tutorial - Machine Learning Models for Residential Appraisers**
 
 “Every company has big data in its future, and every company will eventually be in the data business.” - Thomas H. Davenport
 
@@ -18,36 +18,36 @@ Now, why is any of this relevant to appraisers? Simple, because everything is mo
 
 But this is all a good thing. Appraisers are uniquely positioned to level up the valuation industry. Machine learning performance can be improved with the domain expertise of appraisers. And appraisers can take advantage of the computational power and automation of machine learning. It is the perfect match. We can have the best of both worlds.
 
-***The future of the appraisal/valuation industry lies in the intersection of advanced computational power (big data and machine learning) and domain expertise (appraiser).***
+#### ***The future of the appraisal/valuation industry lies in the intersection of advanced computational power (big data and machine learning) and domain expertise (appraiser).***
 
 
-Here is a quick tutorial to show how to explore the data and run a couple of simple Machine Learning Models for Home Valuations.
+Here is a quick tutorial to show how to explore a homes sales dataset and run a couple of simple Machine Learning Models for Home Valuations.
 
-#### Tutorial – Machine Learning for Residential Appraisers
+#### Tutorial – Machine Learning (Linear Regression and Decision Tree Regression) for Residential Appraisers
 
-Important Note: There are plenty of free machine learning tutorials and courses online. Anyone can access them, learn, and run predictive models for home values. However, this tutorial has been designed specifically for residential appraisers, and some of the material will be irrelevant or less important for other industries. If you are not a residential appraiser, and/or you are looking to learn about machine learning as a broader field, this tutorial may not be adequate for you.
+*Important Note: There are plenty of free machine learning tutorials and courses online. Anyone can access them, learn, and run predictive models for home values. However, this tutorial has been designed specifically for residential appraisers, and some of the material will be irrelevant or less important for other industries. If you are not a residential appraiser, and/or you are looking to learn about machine learning as a broader field, this tutorial may not be adequate for you.*
 
-The purpose of this tutorial is for appraisers interested in machine learning to get their toes wet. This is not a comprehensive machine learning tutorial and it does not cover everything there is to know about the topic. 
+The purpose of this tutorial is for residenatial appraisers interested in machine learning to get their toes wet. This is **not** a comprehensive machine learning tutorial and it does **not** cover everything there is to know about the topic. 
 
-In this tutorial we will cover data collection, data wrangling/cleaning, visualizations, data modelling, and predictions. Since real estate prices are continuous numerical variables we will be using regression techniques, Linear Regression and Decision Tree Regression.
+In this tutorial we will cover data collection, data wrangling/cleaning, visualizations, data modelling, and predictions. Since real estate prices are continuous numerical variables we will be using regression techniques, **Linear Regression and Decision Tree Regression.**
 
 Prerequisites:
-•	Some understanding of Python programming.
-•	Access and familiarity with Google Colabs or Jupyter notebook.
-•	If you want to use your own data you will need access to home sales data and custom exports from your local MLS.
+1.	Some understanding of Python programming.
+2.	Access and familiarity with Google Colabs or Jupyter notebook.
+3.	If you want to use your own data you will need access to home sales data and custom exports from your local MLS.
 
 Obtain the data:
-We will be using a dataset of home sales that includes sales prices and several predicting features, in csv format.
-Feel free to download the dataset here
-(The easiest way to obtain a dataset for your specific market area is by creating a custom csv export from your local MLS system. If you don’t know how to create it you should get technical support from your MLS provider.)
+We will be using a dataset of home sales that includes sales prices and several predicting features, in csv format. Download it here. 
+The easiest way to obtain a dataset for your specific market area is by creating a custom csv export from your local MLS system. If you don’t know how to create it you should get technical support from your MLS provider.
 
-I will be using a dataset that contains the following features:
+The sales dataset  contains the following features:
 Lot size, Water View, Year Built, Bedrooms, Bathrooms, GLA, Garage, Carport, Fireplace, Pool, and Sales Price.
-
 Note: These features are based on the subject’s market area. You should export a dataset that includes all of the value-affecting features you consider relevant for your specific market area. 
 
 Assumptions:
 We will make the following assumptions for the purpose of this tutorial. 
-1)	Stable market condition. In rapidly increasing or decreasing markets you will likely need to add a “sales date” column/feature.
-2)	Accurate data sources. MLS data is considered to be mostly reliable.
-3)	Relevant predicting features. Always make sure you include all of the appropriate value-affecting features for the subject’s market area.
+1.	Stable market condition. In rapidly increasing or decreasing markets you will likely need to add a “sales date” column/feature.
+2.	Accurate data sources. MLS data is considered to be good and reliable.
+3.	Relevant predicting features. Make sure you include all of the appropriate value-affecting features for the subject’s market area.
+
+
