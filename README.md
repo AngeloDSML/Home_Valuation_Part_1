@@ -1,4 +1,4 @@
-### **Quick Tutorial - Machine Learning Models for Residential Appraisers**
+### **Intro to Machine Learning for Residential Appraisers**
 
 “Every company has big data in its future, and every company will eventually be in the data business.” - Thomas H. Davenport
 
@@ -25,7 +25,7 @@ Here is a quick tutorial to show how to explore a homes sales dataset and run a 
 
 
 
-#### Tutorial – Machine Learning (Linear Regression and Decision Tree Regression) for Residential Appraisers
+### Quick Tutorial - Machine Learning Models (Linear Regression and Decision Tree Regression) for Residential Appraisers
 
 *Important Note: There are plenty of free machine learning tutorials and courses online. Anyone can access them, learn, and run predictive models for home values. However, this tutorial has been designed specifically for residential appraisers, and some of the material will be irrelevant or less important for other industries. If you are not a residential appraiser, and/or you are looking to learn about machine learning as a broader field, this tutorial may not be adequate for you.*
 
@@ -41,7 +41,7 @@ In this tutorial we will cover data collection, data wrangling/cleaning, visuali
 
 
 **Obtain the data:**
-We will be using a dataset of home sales that includes sales prices and several predicting features, in csv format. Download it here. 
+We will be using a dataset of home sales that includes sales prices and several predicting features, in csv format.
 
 The easiest way to obtain a dataset for your specific market area is by creating a custom csv export from your local MLS system. If you don’t know how to create it you should get technical support from your MLS provider.
 
