@@ -23,6 +23,8 @@ But this is all a good thing. Appraisers are uniquely positioned to level up the
 
 Here is a quick tutorial to show how to explore a homes sales dataset and run a couple of simple Machine Learning Models for Home Valuations.
 
+
+
 #### Tutorial – Machine Learning (Linear Regression and Decision Tree Regression) for Residential Appraisers
 
 *Important Note: There are plenty of free machine learning tutorials and courses online. Anyone can access them, learn, and run predictive models for home values. However, this tutorial has been designed specifically for residential appraisers, and some of the material will be irrelevant or less important for other industries. If you are not a residential appraiser, and/or you are looking to learn about machine learning as a broader field, this tutorial may not be adequate for you.*
@@ -31,10 +33,12 @@ The purpose of this tutorial is for residenatial appraisers interested in machin
 
 In this tutorial we will cover data collection, data wrangling/cleaning, visualizations, data modelling, and predictions. Since real estate prices are continuous numerical variables we will be using regression techniques, **Linear Regression and Decision Tree Regression.**
 
+
 **Prerequisites:**
 1.	Some understanding of Python programming.
 2.	Access and familiarity with Google Colabs or Jupyter notebook.
 3.	If you want to use your own data you will need access to home sales data and custom exports from your local MLS.
+
 
 **Obtain the data:**
 We will be using a dataset of home sales that includes sales prices and several predicting features, in csv format. Download it here. 
@@ -44,6 +48,7 @@ The easiest way to obtain a dataset for your specific market area is by creating
 The sales dataset  contains the following features:
 Lot size, Water View, Year Built, Bedrooms, Bathrooms, GLA, Garage, Carport, Fireplace, Pool, and Sales Price.
 Note: These features are based on the subject’s market area. You should export a dataset that includes all of the value-affecting features you consider relevant for your specific market area. 
+
 
 **Assumptions:**
 We will make the following assumptions for the purpose of this tutorial. 
