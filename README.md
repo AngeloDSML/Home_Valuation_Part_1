@@ -1,4 +1,4 @@
-Quick Machine Learning Model for Home Valuations
+##**Quick Machine Learning Model for Home Valuations**
 
 “Every company has big data in its future, and every company will eventually be in the data business.” - Thomas H. Davenport
 
