@@ -1,7 +1,8 @@
 ### **Intro to Machine Learning for Residential Appraisers**
+&nbsp;  
+***“Every company has big data in its future, and every company will eventually be in the data business.”*** - Thomas H. Davenport 
 
-***“Every company has big data in its future, and every company will eventually be in the data business.”*** - Thomas H. Davenport
-
+&nbsp;  
 It is no secret that Machine Learning is being applied everywhere. In today’s data-rich environment every industry can benefit from data analysis, data insights, forecasting, and automation of processes.
 From actuarial models of insurance companies to the next show/movie recommendation from your favorite streaming platform, machine learning has become essential to provide a better customer experience as well as maximize profits for businesses.
 
@@ -19,7 +20,7 @@ Now, why is any of this relevant to appraisers? Simple, because everything is mo
 But this is all a good thing. Appraisers are uniquely positioned to level up the valuation industry. Machine learning performance can be improved with the domain expertise of appraisers. And appraisers can take advantage of the computational power and automation of machine learning. It is the perfect match. We can have the best of both worlds.
 
 #### ***The future of the appraisal/valuation industry lies in the intersection of advanced computational power (big data and machine learning) and domain expertise (appraiser).***
-
+&nbsp;  
 
 [Here](https://github.com/AngeloDSML/Home_Valuation/blob/main/HomeValuation.ipynb) is a quick tutorial to show how to explore a homes sales dataset and run a couple of simple Machine Learning Models for Home Valuations.
 
