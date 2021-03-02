@@ -29,14 +29,14 @@ But this is all a good thing. Appraisers are uniquely positioned to level up the
 
 *Important Note: There are plenty of free machine learning tutorials and courses online. Anyone can access them, learn, and run predictive models for home values. However, this tutorial has been designed specifically for residential appraisers, and some of the material will be irrelevant or less important for other industries. If you are not a residential appraiser, and/or you are looking to learn about machine learning as a broader field, this tutorial may not be adequate for you.*
 
-The purpose of this tutorial is for residenatial appraisers interested in machine learning to get their toes wet. This is **not** a comprehensive machine learning tutorial and it does **not** cover everything there is to know about the topic. 
+The purpose of this tutorial is for residential appraisers interested in machine learning to get their toes wet. This is **not** a comprehensive machine learning tutorial and it does **not** cover everything there is to know about the topic. 
 
-In this tutorial we will cover data collection, data wrangling/cleaning, visualizations, data modelling, and predictions. Since real estate prices are continuous numerical variables we will be using regression techniques, **Linear Regression and Decision Tree Regression.**
+In this tutorial we will cover data collection, data wrangling/cleaning, visualizations, data modeling, and predictions. Since real estate prices are continuous numerical variables we will be using regression techniques, **Linear Regression and Decision Tree Regression.**
 
 
 **Prerequisites:**
 1.	Some understanding of Python programming.
-2.	Access and familiarity with Google Colabs or Jupyter notebook.
+2.	Access and familiarity with Jupyter notebook.
 3.	If you want to use your own data you will need access to home sales data and custom exports from your local MLS.
 
 
