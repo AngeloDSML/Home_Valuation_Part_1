@@ -34,13 +34,13 @@ The purpose of this tutorial is for residential appraisers interested in machine
 
 In this tutorial we will cover data collection, data wrangling/cleaning, visualizations, data modeling, and predictions. Since real estate prices are continuous numerical variables we will be using regression techniques, **Linear Regression and Decision Tree Regression.**
 
-
+&nbsp;  
 **Prerequisites:**
 1.	Some understanding of Python programming.
 2.	Access and familiarity with Jupyter notebook.
 3.	If you want to use your own data you will need access to home sales data and custom exports from your local MLS.
 
-
+&nbsp;  
 **Obtain the data:**
 We will be using a dataset of home sales that includes sales prices and several predicting features, in csv format.
 
@@ -50,7 +50,7 @@ The sales dataset  contains the following features:
 Lot size, Water View, Year Built, Bedrooms, Bathrooms, GLA, Garage, Carport, Fireplace, Pool, and Sales Price.
 Note: These features are based on the subject’s market area. You should export a dataset that includes all of the value-affecting features you consider relevant for your specific market area. 
 
-
+&nbsp;  
 **Assumptions:**
 We will make the following assumptions for the purpose of this tutorial. 
 1.	Stable market condition. In rapidly increasing or decreasing markets you will likely need to add a “sales date” column/feature.
