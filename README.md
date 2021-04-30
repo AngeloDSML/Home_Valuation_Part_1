@@ -1,4 +1,4 @@
-### **Intro to Machine Learning for Residential Appraisers**
+### **Intro to Machine Learning for Residential Appraisers, Part 1**
 &nbsp;  
 ***“Every company has big data in its future, and every company will eventually be in the data business.”*** - Thomas H. Davenport 
 
