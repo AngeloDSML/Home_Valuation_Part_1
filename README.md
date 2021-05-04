@@ -1,7 +1,6 @@
 ### **Intro to Machine Learning for Residential Appraisers, Part 1**
 &nbsp;  
-***“Every company has big data in its future, and every company will eventually be in the data business.”*** 
-- Thomas H. Davenport 
+***“Every company has big data in its future, and every company will eventually be in the data business.”*** - Thomas H. Davenport 
 
 &nbsp;  
 It is no secret that Machine Learning is being applied everywhere. In today’s data-rich environment every industry can benefit from data analysis, data insights, forecasting, and automation of processes.
