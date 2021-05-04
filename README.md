@@ -26,7 +26,7 @@ But this is all a good thing. Appraisers are uniquely positioned to level up the
 
 
 
-### Quick Tutorial - Machine Learning Models for Residential Appraisers (Linear Regression and Decision Tree Regression)
+### Quick Tutorial - Machine Learning Models for Residential Appraisers, Part 1 (Linear Regression and Decision Tree Regression)
 
 *Important Note: There are plenty of free machine learning tutorials and courses online. Anyone can access them, learn, and run predictive models for home values. However, this tutorial has been designed specifically for residential appraisers, and some of the material will be irrelevant or less important for other industries. If you are not a residential appraiser, and/or you are looking to learn about machine learning as a broader field, this tutorial may not be adequate for you.*
 
