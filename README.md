@@ -11,7 +11,7 @@ Of course, the Real Estate Valuation industry is not an exception to this realit
 Real Estate appraisers are very familiar with AVMs and the impact they have on the public’s perception of home values. 
 It is now common (and somewhat expected) for home owners, buyers, and even real estate agents to utilize these AVMs as a factor to make decisions relating to listing prices and purchase offers.
 
-It is worth mention that most AVMs are developed for marketing and informational purposes only. They are not intended to be appraisals and, due to USPAP requirements, they couldn’t be appraisals even if they wanted to (for now). However, that doesn’t stop the public from treating AVMs as reliable appraisals.
+It is worth mention that most AVMs are developed for marketing and informational purposes only. They are not intended to be appraisals (for now). However, that doesn’t stop the public from treating AVMs as reliable appraisals.
 
 Is that a problem? Maybe. If the AVM produces grossly inaccurate results, then of course, it is a problem. This may result in over/under priced listings and angry real estate transaction participants. But the truth is that for the most part these AVMs are actually pretty good at providing a “ball park” value. We are very far from the clunky unreliable machine learning models from a decade ago. Advances in Artificial Neural Networks and the availability of Big Data has completely changed the performance of AVMs. There are some obvious exceptions, like custom properties, unique locations, and some rural areas. But this is not necessarily a problem with the machine learning model, it is a problem with the availability and/or quality of the data.
 
